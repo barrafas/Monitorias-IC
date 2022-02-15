@@ -3,8 +3,10 @@
 - **Fundação Getúlio Vargas -** [Escola de Matemática Aplicada](https://emap.fgv.br/)
 - **Curso -** [Introdução à Computação](https://emap.fgv.br/disciplina/graduacao/introducao-computacao)
 - **Professor -** Rafael de Pinho André
-- **Monitores -** Tiago Barradas Figueiredo - barradastiago15@gmail.com
-
+- **Monitores:** 
+   - Tiago Barradas Figueiredo - barradastiago15@gmail.com
+   - Eduardo Adame Salles - https://adamesalles.github.io/edu/introcomp/home/
+- **Horário de Atendimento:** Segundas, das 15:00 às 16:30
 ## Monitorias
 
 - **[14/02](https://github.com/barrafas/Monitorias-IC/blob/main/Monitoria%2014-02/Monitoria%2014-02.md) -** Dúvidas pontuais de HTML e formatação de código
