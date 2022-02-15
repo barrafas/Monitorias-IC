@@ -2,10 +2,10 @@
 
 ---
 
-**Fundação Getúlio Vargas -** [Escola de Matemática Aplicada](https://emap.fgv.br/)
-**Curso -** [Introdução à Computação](https://emap.fgv.br/disciplina/graduacao/introducao-computacao)
-**Professor -** Rafael de Pinho André
-**Monitores -** Tiago Barradas Figueiredo - barradastiago15@gmail.com
+- **Fundação Getúlio Vargas -** [Escola de Matemática Aplicada](https://emap.fgv.br/)
+- **Curso -** [Introdução à Computação](https://emap.fgv.br/disciplina/graduacao/introducao-computacao)
+- **Professor -** Rafael de Pinho André
+- **Monitores -** Tiago Barradas Figueiredo - barradastiago15@gmail.com
 
 ## Monitorias
 
