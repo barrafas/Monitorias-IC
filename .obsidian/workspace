@@ -1,0 +1,108 @@
+{
+  "main": {
+    "id": "5a99263cd2599edf",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d351bdb3f895ced",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Monitoria 14-02/Monitoria 14-02.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4c1e85536656e9c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "a32fb9deb346a4e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dbb2e18c4d69100d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "cc8c02649d55f2cb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2b437d0203e9c346",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd65fac7919fed1f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d2b49209a4f9e5a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Monitoria 14-02/Monitoria 14-02.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ac9f24d079a3baf4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Monitoria 14-02/Monitoria 14-02.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "0d351bdb3f895ced",
+  "lastOpenFiles": [
+    "Monitoria 14-02/Monitoria 14-02.md",
+    "readme.md",
+    "Monitoria de Introduc¦ºa¦âo a¦Ç Computac¦ºa¦âo - 2022 1 511b99edd653486889200ccf39b466bd.md"
+  ]
+}
