@@ -1,7 +1,5 @@
 # Monitoria de Introdução à Computação - 2022.1
 
----
-
 - **Fundação Getúlio Vargas -** [Escola de Matemática Aplicada](https://emap.fgv.br/)
 - **Curso -** [Introdução à Computação](https://emap.fgv.br/disciplina/graduacao/introducao-computacao)
 - **Professor -** Rafael de Pinho André
@@ -9,13 +7,9 @@
 
 ## Monitorias
 
----
-
 - **14/02 -** Dúvidas pontuais de HTML e formatação de código
 
 ## Ferramentas e links úteis
-
----
 
 - **[Notepad++](https://notepad-plus-plus.org/downloads/) -** Editor de texto simples mas com diversas funcionaliades
 - **[VSCode](https://code.visualstudio.com/) -** Editor de texto mais completo e com milhares de extensões, porém é mais complexo de se usar
