@@ -7,7 +7,7 @@
 
 ## Monitorias
 
-- **[14/02](https://github.com/barrafas/Monitorias-IC/tree/main/Monitoria%2014-02) -** Dúvidas pontuais de HTML e formatação de código
+- **[14/02](https://github.com/barrafas/Monitorias-IC/blob/main/Monitoria%2014-02/Monitoria%2014-02.md) -** Dúvidas pontuais de HTML e formatação de código
 
 ## Ferramentas e links úteis
 
