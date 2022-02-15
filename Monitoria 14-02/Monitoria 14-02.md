@@ -11,6 +11,8 @@
 ## Código
 ---
 
+Esse arquivo HTML está disponível no repositório para que vocês possam baixar e editar caso queiram!
+
 ```html
 <!DOCTYPE html>
 <html lang="pt-br">
