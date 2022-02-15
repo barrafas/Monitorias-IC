@@ -1,15 +1,11 @@
 # Monitoria 14/02 - Dúvidas de HTML
 
----
-
 ## Tópicos
----
 
 -  Comportamento da tag `<details>` e sua interação com `<summary>`
 -  Discussão sobre [legibilidade do código e indentação dentro de tags](https://www.w3schools.com/html/html5_syntax.asp)
 
 ## Código
----
 
 Esse arquivo HTML está disponível no repositório para que vocês possam baixar e editar caso queiram!
 
