@@ -31,9 +31,9 @@ Com esse endereço em mãos, basta usá-lo como o valor do atributo `src=` :
 Antes de começar a falar sobre a sintaxe CSS, acho importante mostrar primeiro a importância de utilizar desse recurso. Vamos ver a diferença entre uma página sem CSS, e essa mesma página com menos de 15 linhas de CSS escritas:
 
 ### Antes:
-![[series sem css.png]]
+![series sem css](https://github.com/barrafas/Monitorias-IC/blob/main/Monitoria%2021-02/Imagens/series%20sem%20css.png)
 ### Depois:
-![[series com css.png]]
+![series com css](https://github.com/barrafas/Monitorias-IC/blob/main/Monitoria%2021-02/Imagens/series%20com%20css.png)
 Como podem ver, o CSS é uma maneira extremamente prática de aplicar propriedades para seus elementos HTML. Com ele, é possível padronizar a formatação de imagens de uma página inteira, mudar a cor de todos os textos, entre diversas outras coisas.
 
 Apesar de ser possível indicar os atributos CSS de forma *inline*, como um atributo de uma tag HTML específica, isso é **fortemente não recomendado**. Além de tornar o código mais difícil de ler, usar CSS de forma *inline* faz com que você tenha que repetir muito texto desnecessariamente. Caso você queira editar a aparência de um texto, você teria que editar cada tag relacionada à essa mudança, uma de cada vez.
@@ -113,7 +113,7 @@ Para começar, precisamos atribuir uma classe para essas tags específicas. No n
 
 Agora, temos que essas imagens específicas são de uma classe arbitrária que nós criamos, chamada "jogos". Entretanto, isso por si só não irá mudar nada, elas continuarão se comportando como imagens quaisquer.
 
-![[jogos antes classe.png]]
+![jogos antes classe](https://github.com/barrafas/Monitorias-IC/blob/main/Monitoria%2021-02/Imagens/jogos%20antes%20classe.png)
 
 Para cumprir nosso objetivo, precisamos criar uma regra CSS própria para imagens que pertencem à essa classe. Para isso, usaremos o seletor `tag.classe`, como podemos ver a seguir:
 
@@ -142,7 +142,7 @@ Para cumprir nosso objetivo, precisamos criar uma regra CSS própria para imagen
 
 Ao atualizar a página, temos...
 
-![[jogos com classe.png]]
+![jogos com classe](https://github.com/barrafas/Monitorias-IC/blob/main/Monitoria%2021-02/Imagens/jogos%20com%20classe.png)
 
 Imagens com uma altura de 240px! É importante notar, também, que essa regra CSS não "desabilita" os atributos gerais de imagens definidos anteriormente. Tudo que ela faz é adicionar um atributo novo a aquelas que pertencem à tal classe. Nesse caso, como o atributo `height` já existia anteriormente, ele foi **sobreposto** pelo novo atributo definido.
 
@@ -172,7 +172,8 @@ Além de podermos usar classes para especificar nossos seletores, essa não é a
 </body>
 ```
 
-![[h3+h2.png]]
+![h3eh2](https://github.com/barrafas/Monitorias-IC/blob/main/Monitoria%2021-02/Imagens/h3%2Bh2.png)
+
 - `tag1 tag2` -> Altera os atributos da `tag2` apenas quando ela estiver dentro da `tag1`, veja o exemplo a seguir. Note que isso não é limitado para apenas duas tags, como em `tag1 tag2 tag3 tag4`.
 
 	```html
@@ -193,7 +194,7 @@ Além de podermos usar classes para especificar nossos seletores, essa não é a
 </body>
 ```
 
-![[article h2.png]]
+![article h2](https://github.com/barrafas/Monitorias-IC/blob/main/Monitoria%2021-02/Imagens/article%20h2.png)
 - `tag1, tag2` -> Altera os atributos de tanto a `tag1` quanto a `tag2`. Note que isso não é limitado para apenas duas tags, como em `tag1, tag2, tag3, tag4`.
 - `tag:hover` -> Altera os atributos da `tag` quando o mouse está sendo passado por cima dela.
 - `tag:visited` -> Altera os atributos da `tag` quando o link ao qual ela se referia já foi visitado.
@@ -204,11 +205,11 @@ Caso tenha interesse em se aprofundar no tópico de seletores, eu recomendo o se
 
 Para usar fontes do google fonts, o procedimento é bem simples. Primeiro, entre no site e selecione a fonte e o estilo que você queira usar:
 
-![[select style.png]]
+![select style](https://github.com/barrafas/Monitorias-IC/blob/main/Monitoria%2021-02/Imagens/select%20style.png)
 
 Agora, aperte o botão no canto superior direito da tela, para abrir o painel lateral na direita:
 
-![[painel lateral.png]]
+![painel lateral](https://github.com/barrafas/Monitorias-IC/blob/main/Monitoria%2021-02/Imagens/painel%20lateral.png)
 
 Nele, você pode selecionar a opção `@import`, e copiar aquele código CSS que aparece abaixo. Agora, basta colocar isso nas primeiras linhas da sua tag `<style>` e chamar essa fonte usando a *font-family* indicada no painel. Nesse caso, ela se chama "Roboto Condensed". Essa é a fonte sendo usada na página HTML usada como exemplo nesse arquivo. 
 
@@ -253,7 +254,7 @@ h1 {
  <p>O final <span style="color: green;">do segundo período</span> foi bem cansativo, e eu tava sem ter férias desde junho de 2020, então resolvi tirar essas férias para fazer absolutamente nada de útil e só relaxar a cabeça. </p>
 ```
 
-![[fonte do mortal kombat.png]]
+![fonte do mortal combat](https://github.com/barrafas/Monitorias-IC/blob/main/Monitoria%2021-02/Imagens/fonte%20do%20mortal%20kombat.png)
 
 ## Criando uma `<nav>` com links na esquerda e na direita
 
@@ -313,6 +314,6 @@ nav a {
 
 Com esse CSS pronto, podemos recarregar a página e...
 
-![[página pronta.png]]
+![página pronta](https://github.com/barrafas/Monitorias-IC/blob/main/Monitoria%2021-02/Imagens/p%C3%A1gina%20pronta.png)
 
 Ela está pronta!
