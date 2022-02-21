@@ -176,7 +176,7 @@ Além de podermos usar classes para especificar nossos seletores, essa não é a
 
 - `tag1 tag2` -> Altera os atributos da `tag2` apenas quando ela estiver dentro da `tag1`, veja o exemplo a seguir. Note que isso não é limitado para apenas duas tags, como em `tag1 tag2 tag3 tag4`.
 
-	```html
+```html
 <head>
   <style>
   article h2 {
