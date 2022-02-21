@@ -10,6 +10,7 @@
 ## Monitorias
 
 - **[14/02](https://github.com/barrafas/Monitorias-IC/blob/main/Monitoria%2014-02/Monitoria%2014-02.md) -** Dúvidas pontuais de HTML e formatação de código
+- **[21/02](https://github.com/barrafas/Monitorias-IC/blob/main/Monitoria%2021-02/Monitoria%2021-02.md) -** Tag `<style>` e CSS
 
 ## Ferramentas e links úteis
 
@@ -18,3 +19,4 @@
 - **[W3Schools](https://www.w3schools.com/html/default.asp) -** Site educativo com informações detalhadas sobre diversas linguagens, como HTML, CSS ou Python
 - **[Overleaf](https://pt.overleaf.com/) -** Editor de LaTeX online simples de usar e com diversos tutoriais no site
 - **[Stack Overflow](https://stackoverflow.com/) -** O melhor amigo de qualquer programador, muitas dúvidas, erros, e bugs comuns já foram respondidos aqui
+- **[Developer Mozilla](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Reference) -** Site com referências à qualquer coisa relacionada à HTML E CSS 
