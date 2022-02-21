@@ -34,6 +34,7 @@ Antes de começar a falar sobre a sintaxe CSS, acho importante mostrar primeiro 
 ![series sem css](https://github.com/barrafas/Monitorias-IC/blob/main/Monitoria%2021-02/Imagens/series%20sem%20css.png)
 ### Depois:
 ![series com css](https://github.com/barrafas/Monitorias-IC/blob/main/Monitoria%2021-02/Imagens/series%20com%20css.png)
+
 Como podem ver, o CSS é uma maneira extremamente prática de aplicar propriedades para seus elementos HTML. Com ele, é possível padronizar a formatação de imagens de uma página inteira, mudar a cor de todos os textos, entre diversas outras coisas.
 
 Apesar de ser possível indicar os atributos CSS de forma *inline*, como um atributo de uma tag HTML específica, isso é **fortemente não recomendado**. Além de tornar o código mais difícil de ler, usar CSS de forma *inline* faz com que você tenha que repetir muito texto desnecessariamente. Caso você queira editar a aparência de um texto, você teria que editar cada tag relacionada à essa mudança, uma de cada vez.
