@@ -17,7 +17,7 @@ Por isso, o HTML permite que você use o *endereço* de uma imagem que esteja se
 
 Praticamente qualquer imagem disponível na internet permite que você clique com o botão direito nela, e selecione a opção "Copiar endereço de imagem", ou "Copy image link", como mostrado a seguir:
 
-![copy image link]("imagens/copy image link.png")
+![copy image link]("Imagens/copy image link.png")
 
 Com esse endereço em mãos, basta usá-lo como o valor do atributo `src=` :
 
