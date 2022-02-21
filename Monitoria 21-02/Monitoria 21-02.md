@@ -153,7 +153,7 @@ No CSS, quanto **mais específico** for um seletor, **maior prioridade** ele ter
 Além de podermos usar classes para especificar nossos seletores, essa não é a única forma. Entre essas outras formas, as principais são:
 - `tag1+tag2` -> Altera os atributos da `tag2` apenas quando ela foi escrita diretamente depois da `tag1`, veja o exemplo a seguir. Note que isso não é limitado para apenas duas tags, como em `tag1+tag2+tag3+tag4`.
 
-	```html
+```html
 <head>
   <style>
   h3+h2 {
