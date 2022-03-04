@@ -20,3 +20,4 @@
 - **[Overleaf](https://pt.overleaf.com/) -** Editor de LaTeX online simples de usar e com diversos tutoriais no site
 - **[Stack Overflow](https://stackoverflow.com/) -** O melhor amigo de qualquer programador, muitas dúvidas, erros, e bugs comuns já foram respondidos aqui
 - **[Developer Mozilla](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Reference) -** Site com referências à qualquer coisa relacionada à HTML E CSS 
+- **[CSS Cascade](https://developer.mozilla.org/pt-BR/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance) -** Uma página que explica profundamente como o sistema de cascata e herança do CSS funciona
